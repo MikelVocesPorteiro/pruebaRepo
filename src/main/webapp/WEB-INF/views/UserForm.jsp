@@ -8,6 +8,7 @@
 <meta charset="UTF-8">
 
 
+<<<<<<< HEAD
 		<!-- 
 		
 		esta es mi contribucion nola pises 
@@ -61,6 +62,84 @@ o españoles y es el alcalde el que quiere que sean. Lo he escrito aquí y no enti
 		
 		
 		 -->
+=======
+		<esta todo hecho mierda>
+		
+		jjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjj
+		<esta todo hecho mierda>
+		
+		jjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjj
+		
+		<esta todo hecho mierda>
+		
+		jjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjj
+		
+		<esta todo hecho mierda>
+		
+		jjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjj
+		
+		<esta todo hecho mierda>
+		
+		jjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjj
+		
+		<esta todo hecho mierda>
+		
+		jjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjj
+		
+		<esta todo hecho mierda>
+		
+		jjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjj
+		
+>>>>>>> refs/heads/master
 <title>FORMULARIO DE USUARIOS</title>
 </head>
 <body>
