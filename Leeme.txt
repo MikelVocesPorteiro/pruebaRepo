@@ -1,0 +1,10 @@
+Este proyecto emplea una configuración "a pelo".
+
+Si quisieras adaptar este ejercicio para funcionar con SprintBoot
+y cargar la configuracion desde application.properties, puedes
+echar un vistazo a las ideas empleadas en
+
+http://candidjava.com/tutorial/spring-boot-hibernate-crud-example/
+http://www.onlinetutorialspoint.com/spring-boot/spring-boot-hibernate-integration-example.html
+
+En general sería muy parecido a ese ejemplo (aunque el ejemplo es un REST)
