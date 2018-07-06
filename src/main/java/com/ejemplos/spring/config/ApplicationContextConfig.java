@@ -37,7 +37,7 @@ public class ApplicationContextConfig {
 		System.out.println("class = ApplicationContextConfig  --  method = addResourceHandlers -- inicio");
 	    registry.addResourceHandler("/static/**").addResourceLocations("/static/");
 		///registry.addResourceHandler("/css/**").addResourceLocations("/static/css/");	 
-		System.out.println("class = ApplicationContextConfig  --  method = addResourceHandlers -- fin");   
+		  
 	}
      
     
