@@ -21,13 +21,23 @@ import com.ejemplos.spring.model.User;
 @Configuration
 @ComponentScan("com.ejemplos.spring")
 @EnableTransactionManagement
-
+public class ApplicationContextConfig {
+    @Bean(name = "viewResolver")
+    public InternalResourceViewResolver getViewResolver() {
+    	System.out.println(" class = ApplicationContextConfig  -- bean = viewResolver --  method = getViewResolver -- inicio");
+        InternalResourceViewResolver viewResolver = new InternalResourceViewResolver();
+        viewResolver.setPrefix("/WEB-INF/views/");
+        viewResolver.setSuffix(".jsp");
+        System.out.println("class = ApplicationContextConfig  -- bean = viewResolver --  method = getViewResolver -- fin");
+        return viewResolver;
+    }
+    
 
 	public void addResourceHandlers(ResourceHandlerRegistry registry) {
 		System.out.println("class = ApplicationContextConfig  --  method = addResourceHandlers -- inicio");
 	    registry.addResourceHandler("/static/**").addResourceLocations("/static/");
 		///registry.addResourceHandler("/css/**").addResourceLocations("/static/css/");	 
-		System.out.println("class = ApplicationContextConfig  --  method = addResourceHandlers -- fin");   
+		  
 	}
      
     
