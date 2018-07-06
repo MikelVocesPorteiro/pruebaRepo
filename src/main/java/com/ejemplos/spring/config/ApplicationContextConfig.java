@@ -22,7 +22,6 @@ import com.ejemplos.spring.model.User;
 @ComponentScan("com.ejemplos.spring")
 @EnableTransactionManagement
 
-    
 
 	public void addResourceHandlers(ResourceHandlerRegistry registry) {
 		System.out.println("class = ApplicationContextConfig  --  method = addResourceHandlers -- inicio");
