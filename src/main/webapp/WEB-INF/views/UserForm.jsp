@@ -8,7 +8,82 @@
 <meta charset="UTF-8">
 
 
-		<
+		<esta todo hecho mierda>
+		
+		jjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjj
+		<esta todo hecho mierda>
+		
+		jjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjj
+		
+		<esta todo hecho mierda>
+		
+		jjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjj
+		
+		<esta todo hecho mierda>
+		
+		jjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjj
+		
+		<esta todo hecho mierda>
+		
+		jjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjj
+		
+		<esta todo hecho mierda>
+		
+		jjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjj
+		
+		<esta todo hecho mierda>
+		
+		jjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjjj
+		jjjjjjjjjjjjjjjjjjjjj
+		
 <title>FORMULARIO DE USUARIOS</title>
 </head>
 <body>
